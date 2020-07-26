@@ -1,7 +1,7 @@
 # HybridMultiCloud-Task1
 Hello World!
 
-This task was on End-to-End #automation for #deploying our services on cloud service with #CDN (Content Delivery Network). I have used #awscloud #github #terraform to make this #Infrastructure as a #Code (#iaac). ❤
+This task was on End-to-End #automation for #deploying our services on cloud service with #CDN (Content Delivery Network). I have used #awscloud #github #terraform to make this #Infrastructure as a #Code (#iaac). 
 
 Task:
 
